@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\bin\Debug\net6.0\CourseEnrollment.Data.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\bin\Debug\net6.0\CourseEnrollment.Data.dll
+C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\bin\Debug\net6.0\CourseEnrollment.Data.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\obj\Debug\net6.0\CourseEnrollment.Data.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\obj\Debug\net6.0\CourseEnrollment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\obj\Debug\net6.0\CourseEnrollment.Data.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\obj\Debug\net6.0\CourseEnrollment.Data.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\obj\Debug\net6.0\CourseEnrollment.Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\obj\Debug\net6.0\CourseEnrollment.Data.dll
+C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\obj\Debug\net6.0\refint\CourseEnrollment.Data.dll
+C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\obj\Debug\net6.0\CourseEnrollment.Data.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\obj\Debug\net6.0\ref\CourseEnrollment.Data.dll
+C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\bin\Debug\net6.0\CourseEnrollment.Data.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\obj\Debug\net6.0\CourseEnrollment.Data.genruntimeconfig.cache
