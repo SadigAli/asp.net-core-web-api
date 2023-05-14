@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CourseEnrollment.Data
-build_property.ProjectDir = C:\Users\ACER\OneDrive\Desktop\C#\CourseEnrollment.Data\
+build_property.ProjectDir = C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Data\

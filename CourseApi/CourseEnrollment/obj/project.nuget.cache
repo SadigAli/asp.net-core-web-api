@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xLvcP1tzMsWwIb6ve1+m4ySpEP5SaU5EF+PFKn8A0CjzsQacchGyDuOGVxeYZVp3bu/EcZBEc5SyA5mmk0KPLA==",
+  "dgSpecHash": "R5/Gg5Ij5LyasJgeaPJggEfHh4hc0g8I7nzvGG1VDmWftSO4ZD/AycbttJk8rOXrHHV/rj7qfWx48ACyanb7bA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\OneDrive\\Desktop\\C#\\CourseEnrollment\\CourseEnrollment.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\OneDrive\\Desktop\\asp.net-core-web-api\\CourseApi\\CourseEnrollment\\CourseEnrollment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

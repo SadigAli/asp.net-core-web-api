@@ -1,0 +1,15 @@
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\bin\Debug\net6.0\CourseEnrollment.Repository.deps.json
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\bin\Debug\net6.0\CourseEnrollment.Repository.dll
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\bin\Debug\net6.0\CourseEnrollment.Repository.pdb
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\obj\Debug\net6.0\CourseEnrollment.Repository.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\obj\Debug\net6.0\CourseEnrollment.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\obj\Debug\net6.0\CourseEnrollment.Repository.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\obj\Debug\net6.0\CourseEnrollment.Repository.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\obj\Debug\net6.0\CourseEnrollment.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\obj\Debug\net6.0\CourseEnrollment.Repository.dll
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\obj\Debug\net6.0\refint\CourseEnrollment.Repository.dll
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\obj\Debug\net6.0\CourseEnrollment.Repository.pdb
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\obj\Debug\net6.0\ref\CourseEnrollment.Repository.dll
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\bin\Debug\net6.0\CourseEnrollment.Data.dll
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\bin\Debug\net6.0\CourseEnrollment.Data.pdb
+C:\Users\ACER\OneDrive\Desktop\asp.net-core-web-api\CourseApi\CourseEnrollment.Repository\obj\Debug\net6.0\CourseEnrollment.Repository.csproj.CopyComplete

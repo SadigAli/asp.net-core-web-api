@@ -5,5 +5,7 @@
         public string Firstname { get; set; }
         public string Lastname { get; set; }
         public string StudentId { get; set; }
+
+        public List<Enrollment> Enrollments { get; set; }
     }
 }

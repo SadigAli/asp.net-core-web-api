@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\OneDrive\\Desktop\\C#\\CourseEnrollment\\CourseEnrollment.csproj": {}
+    "C:\\Users\\ACER\\OneDrive\\Desktop\\asp.net-core-web-api\\CourseApi\\CourseEnrollment\\CourseEnrollment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\OneDrive\\Desktop\\C#\\CourseEnrollment.Data\\CourseEnrollment.Data.csproj": {
+    "C:\\Users\\ACER\\OneDrive\\Desktop\\asp.net-core-web-api\\CourseApi\\CourseEnrollment.Data\\CourseEnrollment.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Desktop\\C#\\CourseEnrollment.Data\\CourseEnrollment.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Desktop\\asp.net-core-web-api\\CourseApi\\CourseEnrollment.Data\\CourseEnrollment.Data.csproj",
         "projectName": "CourseEnrollment.Data",
-        "projectPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\C#\\CourseEnrollment.Data\\CourseEnrollment.Data.csproj",
+        "projectPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\asp.net-core-web-api\\CourseApi\\CourseEnrollment.Data\\CourseEnrollment.Data.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\C#\\CourseEnrollment.Data\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\asp.net-core-web-api\\CourseApi\\CourseEnrollment.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\ACER\\OneDrive\\Desktop\\C#\\CourseEnrollment\\CourseEnrollment.csproj": {
+    "C:\\Users\\ACER\\OneDrive\\Desktop\\asp.net-core-web-api\\CourseApi\\CourseEnrollment\\CourseEnrollment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Desktop\\C#\\CourseEnrollment\\CourseEnrollment.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Desktop\\asp.net-core-web-api\\CourseApi\\CourseEnrollment\\CourseEnrollment.csproj",
         "projectName": "CourseEnrollment",
-        "projectPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\C#\\CourseEnrollment\\CourseEnrollment.csproj",
+        "projectPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\asp.net-core-web-api\\CourseApi\\CourseEnrollment\\CourseEnrollment.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\C#\\CourseEnrollment\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\asp.net-core-web-api\\CourseApi\\CourseEnrollment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -119,8 +119,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ACER\\OneDrive\\Desktop\\C#\\CourseEnrollment.Data\\CourseEnrollment.Data.csproj": {
-                "projectPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\C#\\CourseEnrollment.Data\\CourseEnrollment.Data.csproj"
+              "C:\\Users\\ACER\\OneDrive\\Desktop\\asp.net-core-web-api\\CourseApi\\CourseEnrollment.Data\\CourseEnrollment.Data.csproj": {
+                "projectPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\asp.net-core-web-api\\CourseApi\\CourseEnrollment.Data\\CourseEnrollment.Data.csproj"
               }
             }
           }
